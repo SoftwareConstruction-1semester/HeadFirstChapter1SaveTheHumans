@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>VISION</Machine>
+    <WindowsUser>Ebbe Vang</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>ffa720b5-70f9-4340-babb-ab7e77c997c1</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Ebbe Vang\Desktop\HeadFirstChapter1SaveTheHumans\HeadFirstChapter1SaveTheHumans\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>7FC5852E12783162230F388544E132ECFBAA935500F92512BF03DEDB37E170FC</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ffa720b5-70f9-4340-babb-ab7e77c997c1_1.0.0.0_neutral__nhg817qpxnvj8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ffa720b5-70f9-4340-babb-ab7e77c997c1_nhg817qpxnvj8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ffa720b5-70f9-4340-babb-ab7e77c997c1</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Ebbe Vang</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Ebbe Vang\Desktop\HeadFirstChapter1SaveTheHumans\HeadFirstChapter1SaveTheHumans\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-09-07T18:43:32.558</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Ebbe Vang\Desktop\HeadFirstChapter1SaveTheHumans\HeadFirstChapter1SaveTheHumans\bin\Debug\HeadFirstChapter1SaveTheHumans.exe">
+      <PackagePath>HeadFirstChapter1SaveTheHumans.exe</PackagePath>
+      <Modified>2014-09-07T20:01:52.263</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ebbe Vang\Desktop\HeadFirstChapter1SaveTheHumans\HeadFirstChapter1SaveTheHumans\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ebbe Vang\Desktop\HeadFirstChapter1SaveTheHumans\HeadFirstChapter1SaveTheHumans\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ebbe Vang\Desktop\HeadFirstChapter1SaveTheHumans\HeadFirstChapter1SaveTheHumans\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ebbe Vang\Desktop\HeadFirstChapter1SaveTheHumans\HeadFirstChapter1SaveTheHumans\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T05:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ebbe Vang\Desktop\HeadFirstChapter1SaveTheHumans\HeadFirstChapter1SaveTheHumans\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-09-07T18:43:32.248</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ebbe Vang\Desktop\HeadFirstChapter1SaveTheHumans\HeadFirstChapter1SaveTheHumans\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-09-07T20:01:52.130</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ebbe Vang\Desktop\HeadFirstChapter1SaveTheHumans\HeadFirstChapter1SaveTheHumans\bin\Debug\HeadFirstChapter1SaveTheHumans.xr.xml">
+      <PackagePath>HeadFirstChapter1SaveTheHumans.xr.xml</PackagePath>
+      <Modified>2014-09-07T19:56:59.869</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ebbe Vang\Desktop\HeadFirstChapter1SaveTheHumans\HeadFirstChapter1SaveTheHumans\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-09-07T18:43:32.457</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
