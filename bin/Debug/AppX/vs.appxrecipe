@@ -26,7 +26,7 @@
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Ebbe Vang\Desktop\HeadFirstChapter1SaveTheHumans\HeadFirstChapter1SaveTheHumans\bin\Debug\HeadFirstChapter1SaveTheHumans.exe">
       <PackagePath>HeadFirstChapter1SaveTheHumans.exe</PackagePath>
-      <Modified>2014-09-07T20:01:52.263</Modified>
+      <Modified>2014-09-07T20:19:49.091</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ebbe Vang\Desktop\HeadFirstChapter1SaveTheHumans\HeadFirstChapter1SaveTheHumans\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
@@ -54,11 +54,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ebbe Vang\Desktop\HeadFirstChapter1SaveTheHumans\HeadFirstChapter1SaveTheHumans\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2014-09-07T20:01:52.130</Modified>
+      <Modified>2014-09-07T20:19:48.957</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ebbe Vang\Desktop\HeadFirstChapter1SaveTheHumans\HeadFirstChapter1SaveTheHumans\bin\Debug\HeadFirstChapter1SaveTheHumans.xr.xml">
       <PackagePath>HeadFirstChapter1SaveTheHumans.xr.xml</PackagePath>
-      <Modified>2014-09-07T19:56:59.869</Modified>
+      <Modified>2014-09-07T20:19:48.947</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Ebbe Vang\Desktop\HeadFirstChapter1SaveTheHumans\HeadFirstChapter1SaveTheHumans\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
